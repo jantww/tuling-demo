@@ -1,4 +1,4 @@
-package entity;
+package com.tuling.crypto.entity;
 
 /**
  * @Author:zhgw
